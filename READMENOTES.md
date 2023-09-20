@@ -70,4 +70,5 @@ $ php artisan ser
 kemudian, copy "**http://127.0.0.1:8000**" ke browser kalian untuk menjalankan tampilan antarmukanya
 <img src="images/request-pull10.png">
 >tampilan default antarmuka laravel
-<img src="images/request-pull6.png"
+
+<img src="images/request-pull6.png">
